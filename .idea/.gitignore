@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# 忽略所有生成的构建文件
+build/
+
+# 忽略所有的 .iml 文件
+*.iml
+
+# 忽略 local.properties 文件
+local.properties
